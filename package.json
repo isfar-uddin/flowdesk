@@ -1,0 +1,32 @@
+{
+  "name": "flowdesk",
+  "version": "1.0.0",
+  "description": "This is a project management and team collaboration platform.",
+  "keywords": [
+    "project-management",
+    "collaboration",
+    "team",
+    "tasks",
+    "saas",
+    "workflow",
+    "productivity",
+    "messaging",
+    "kanban",
+    "scheduling"
+  ],
+  "homepage": "https://github.com/isfar-uddin/flowdesk#readme",
+  "bugs": {
+    "url": "https://github.com/isfar-uddin/flowdesk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isfar-uddin/flowdesk.git"
+  },
+  "license": "MIT",
+  "author": "Md Isfar Uddin <isfarruett@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
